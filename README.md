@@ -27,10 +27,5 @@ If you want to contribute to this project, you can fork the repository, make you
 Issues:
 If you encounter any issues or bugs, please create an issue in the GitHub repository.
 
-License:
-This project is licensed under the MIT License. Please see the LICENSE file for more information.
-
-Acknowledgements:
+Acknowledgments:
 This project was inspired by CodePen and is intended to help developers improve their front-end web development skills.
-
-Thank you for using this project!
